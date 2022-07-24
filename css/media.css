@@ -1,0 +1,169 @@
+@media(max-width:575px){
+    .contact{
+        display: flex;
+        justify-content: center;
+    }
+
+    .phone{
+        font-size: 11px;
+    }
+
+    .navbar-brand{
+        margin-right: 9px;
+    }
+    .navbar-brand img{
+        width: 78%;
+    }
+
+    .navbar-nav .nav-item{
+        margin: auto;
+        
+    }
+    .navbar-nav {
+        margin-top: 25px;
+    }
+
+    .bannertext{
+        margin-top: 59px;
+        text-align: center;
+    }
+    .bannertext h5{
+        font-size: 13px;
+        width: 323px;
+        margin: auto;
+    }
+    .bannertext h1{
+        font-size: 48px;
+    }
+
+    .price{
+        left: 15%;
+        top: 119%;
+    }
+    .fun{
+        margin-top: 31px;
+    }
+
+    .chooseenjoytext h4 {
+        width: 48%;
+    }
+
+    .chooseimg{
+        margin-top: 20px;
+    }
+
+    .maincon{
+        padding: 40px 30px;
+    }
+
+    .owl-dots{
+        position: absolute;
+        left: 46%;
+        bottom: 1%;
+    }
+
+    .eventtxt p{
+        width: 400px;
+    }
+    .addressmain{
+        margin-top: 56px;
+        padding-left: 130px;
+    }
+    .footericon{
+        margin-top: 0;
+        margin-bottom: 22px;
+    }
+
+    .footericon ul{
+        justify-content: center;
+    }
+
+    .ftext p{
+        text-align: center;
+    }
+}
+
+@media(max-width:767px){
+    .contact{
+        display: flex;
+        justify-content: center;
+    }
+
+    .phone{
+        font-size: 11px;
+    }
+
+    .navbar-brand{
+        margin-right: 9px;
+    }
+    .navbar-brand img{
+        width: 78%;
+    }
+
+    .navbar-nav .nav-item{
+        margin: auto;
+        
+    }
+    .navbar-nav {
+        margin-top: 25px;
+    }
+
+    .bannertext{
+        margin-top: 59px;
+        text-align: center;
+    }
+    .bannertext h5{
+        font-size: 13px;
+        width: 323px;
+        margin: auto;
+    }
+    .bannertext h1{
+        font-size: 48px;
+    }
+
+    .price{
+        left: 25%;
+        top: 113%;
+    }
+    .fun{
+        margin-top: 31px;
+    }
+
+    .chooseenjoytext h4 {
+        width: 48%;
+    }
+
+    .chooseimg{
+        margin-top: 20px;
+    }
+
+    .maincon{
+        padding: 40px 30px;
+    }
+
+    .owl-dots{
+        position: absolute;
+        left: 46%;
+        bottom: 1%;
+    }
+    .eventtxt p{
+        width: 400px;
+    }
+
+    .addressmain{
+        margin-top: 56px;
+        padding-left: 130px;
+    }
+    .footericon{
+        margin-top: 0;
+        margin-bottom: 22px;
+    }
+
+    .footericon ul{
+        justify-content: center;
+    }
+
+    .ftext p{
+        text-align: center;
+    }
+}
